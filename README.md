@@ -8,6 +8,7 @@
 - Use built-in compound types to represent entities in the problem domain and access/modify them using *getter* and *setter* functions
 - Have at least 10 items in your application at startup
 - Provide **specification** and **tests** for all non-UI functions related to every functionality
+- Implement **modular programming** by having a **UI** module, a **Functions** module and a **Start** module
 
 ## Problem Statement
 ### Apartment Building Administrator
