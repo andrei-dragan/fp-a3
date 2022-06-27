@@ -1,4 +1,4 @@
-# 💻 Assignment 3
+# 💻 Assignment 03
 
 ## Requirements
 - You will be given one of the problems below to solve
